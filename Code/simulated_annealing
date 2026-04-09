@@ -1,9 +1,0 @@
-#include <iostream>
-using namespace std;
-
-// Simulated Annealing algorithm implementation
-
-int main() {
-    cout << "Simulated Annealing algorithm placeholder" << endl;
-    return 0;
-}
