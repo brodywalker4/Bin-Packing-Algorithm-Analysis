@@ -47,4 +47,10 @@ The algorithms are evaluated based on:
 - Consistency across datasets  
 
 ## How to run
-  
+  -Download or clone the repository and open the project folder on your computer.
+  -Make sure you have a C++ compiler installed, such as g++.
+  -Open a terminal or command prompt and navigate to the project folder.
+  -Compile the C++ file to create an executable program.
+  -Run the executable from the terminal to execute the algorithm.
+  -If there are multiple files, compile and run each one separately.
+  -If it does not work, check that the compiler is installed and that you are in the correct folder.
