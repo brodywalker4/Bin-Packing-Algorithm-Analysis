@@ -10,7 +10,7 @@ Contributors:
   - [Dante Haman](https://github.com/dhaman43)
   - [Brody Walker](https://github.com/brodywalker4) 
 ## Objectives
-- Implement multiple bin packing algorithms in C++  
+- Implement multiple bin packing algorithms in Python 
 - Compare their efficiency and accuracy  
 - Analyze trade-offs between optimality and runtime  
 - Evaluate performance across different datasets  
@@ -51,10 +51,6 @@ The algorithms are evaluated based on:
 - Consistency across datasets  
 
 ## How to run
- - Download or clone the repository and open the project folder on your computer.
-- Make sure you have a C++ compiler installed, such as g++.
-- Open a terminal or command prompt and navigate to the project folder.
-- Compile the C++ file to create an executable program.
-- Run the executable from the terminal to execute the algorithm.
-- If there are multiple files, compile and run each one separately.
-- If it does not work, check that the compiler is installed and that you are in the correct folder.
+-Download the newest version of Python
+-Download some IDE for python code, pycharm, is recommened
+-run the code in your IDE.
