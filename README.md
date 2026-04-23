@@ -53,4 +53,4 @@ The algorithms are evaluated based on:
 ## How to run
  - Download the newest version of Python. 
  - Download some IDE for python code, pycharm, is recommened, 
- - run the code in your IDE. 
+ - Run the code in your IDE. 
